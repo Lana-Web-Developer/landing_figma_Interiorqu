@@ -7,8 +7,6 @@
 **Figma-макет:**  
 [Открыть в Figma](https://www.figma.com/design/XYqfF0xZkqkxzuUzGejIVL/Interiorqu?node-id=68-40&t=OQvlkAQ2RbZVdYHW-0)
 
-## 
-
 ## Технологии
 - HTML
 - SCSS 
